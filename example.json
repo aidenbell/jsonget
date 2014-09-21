@@ -1,0 +1,7 @@
+
+[{
+	"config": {
+		"hostname": "host.example.com",
+		"port": 9090
+	}
+}]
