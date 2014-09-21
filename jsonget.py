@@ -14,7 +14,6 @@
 import sys
 import json
 
-outlines = []
 loadedjson = None
 
 class ParseException(Exception):
